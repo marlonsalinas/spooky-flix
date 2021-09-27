@@ -1,12 +1,10 @@
 # spooky-flix
-Web app that suggests a random horror movie to the user
+A web app that suggests a random horror movie to the user
 
-**Technologies used
+Technologies used: HTML, CSS, Javascript, jQuery
 
-HTML, CSS, Javascript, jQuery
+Images of app
 
-**Images of app
+Getting started
 
-**Getting started
-
-**Future enhancements
+Future enhancements
